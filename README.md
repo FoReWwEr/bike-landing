@@ -16,4 +16,4 @@ The landing page is designed to be visually appealing and user-friendly, with a 
 3) **Dependencies Installation**: npm install
 4) **Development Server**: npm start
 
-# [DEMO LINK](https://forewwer.github.io/game-2048/)
+# [DEMO LINK](https://forewwer.github.io/bike-landing/)
