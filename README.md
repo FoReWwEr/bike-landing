@@ -1,4 +1,4 @@
-# MyBike 🚴‍♂️
+# MyBike Landing 🚴‍♂️
 Welcome to MyBike, the ultimate landing page for bike enthusiasts! 
 This project showcases our range of bikes and provides essential details for prospective buyers. 
 The landing page is designed to be visually appealing and user-friendly, with a focus on clean and responsive design.
