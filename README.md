@@ -4,7 +4,7 @@ This project showcases our range of bikes and provides essential details for pro
 The landing page is designed to be visually appealing and user-friendly, with a focus on clean and responsive design.
 
 # 🌟 Built With
-1) **HTML**: The structure of the game interface.
+1) **HTML**
 2) **SCSS**: A powerful CSS preprocessor for maintaining clean and modular styling.
 
 # 💡 Inspiration
